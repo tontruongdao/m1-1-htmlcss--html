@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T21:39:14.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="kod-yQeeUNB-6UrczeU7" version="13.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-07T23:35:50.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="kUisMiAUf_HcTBSVLFx_" version="13.7.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="672" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -63,15 +63,6 @@
         </mxCell>
         <mxCell id="2ebZrkR-TWmBmjrGkh3x-16" value="Steps" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;fontSize=26;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="100" y="560" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2ebZrkR-TWmBmjrGkh3x-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="80" y="635" width="180" height="165" as="geometry" />
-        </mxCell>
-        <mxCell id="2ebZrkR-TWmBmjrGkh3x-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.555;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=26;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2ebZrkR-TWmBmjrGkh3x-18" target="2ebZrkR-TWmBmjrGkh3x-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2ebZrkR-TWmBmjrGkh3x-18" value="Ingredients&lt;br&gt;( You can &lt;br&gt;purchase&lt;br&gt;&amp;nbsp;missing&lt;br&gt;ingredient)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=26;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="98.75" y="637.5" width="140" height="160" as="geometry" />
         </mxCell>
         <mxCell id="2ebZrkR-TWmBmjrGkh3x-20" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="480" y="564" width="240" height="146" as="geometry" />
@@ -142,7 +133,7 @@
         <mxCell id="2ebZrkR-TWmBmjrGkh3x-53" value="- API ?&lt;br&gt;- BE ?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="700" y="280" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="_dIIu0VExmhFTLS-VKew-0" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Search&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_dIIu0VExmhFTLS-VKew-0" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Search&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="190" y="85" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
